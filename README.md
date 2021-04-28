@@ -1,5 +1,5 @@
-# Pattern Recognition and ML Study (20200819 ~ )
-- Summary and code implementation in weekly PRML seminar in SClab (20200819 ~ 20210128) -> DAclub (20200407 ~ )
+# Pattern Recognition and ML Study (20200819 ~ 20210414)
+- Summary and code implementation in weekly PRML seminar in SClab (20200819 ~ 20210128) -> DAclub (20200407 ~ 20210414)
 
 
 > 1. Polynomial Curve Fitting, Error function (RMS), Model Selection, Regularization | [[Presentation]](https://github.com/OH-Seoyoung/Pattern_Recognition_and_ML_Study/blob/master/presentation/20200819_PRML.pdf)  
