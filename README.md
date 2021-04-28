@@ -17,8 +17,8 @@
 ### 5. Information theory, Entropy, Gaussian Distribution  
 [[Presentation]](https://github.com/OH-Seoyoung/Pattern_Recognition_and_ML_Study/blob/master/presentation/20200922_PRML.pdf) 
 
-### 6. 
-
+### 6. Binary Variables, beta distributions, multinomial variables, Gaussian Distribution  
+[[Presentation]](https://github.com/OH-Seoyoung/Pattern_Recognition_and_ML_Study/blob/master/presentation/20210414_Probability_Distribution1.pdf)  
 
 ### Reference
 ```
